@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c295062e-6e87-45a7-8bcc-ae7641f98df6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ar/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ar/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar/contact.html" afterDir="false" />
@@ -33,7 +32,18 @@
       <change beforePath="$PROJECT_DIR$/ar/webdesign.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar/webdesign.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ar/webdevelop.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar/webdevelop.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ar/websystem.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar/websystem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/digitalmarketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/digitalmarketing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/ecommerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/ecommerce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/mobileapp.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/mobileapp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/seo.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/seo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/terms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/webdesign.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/webdesign.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/webdevelop.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/webdevelop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/websystem.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/websystem.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/custom-ar.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/custom-ar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/custom-en.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/custom-en.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +75,7 @@
       <updated>1600873188206</updated>
       <workItem from="1600873191830" duration="1658000" />
       <workItem from="1600876096126" duration="1243000" />
+      <workItem from="1600887350626" duration="1717000" />
     </task>
     <servers />
   </component>
@@ -84,9 +95,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="340" y="88" width="650" height="772" key="find.popup" timestamp="1600877242908">
+    <state x="340" y="88" width="650" height="772" key="find.popup" timestamp="1600888973251">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="340" y="88" width="650" height="772" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1600877242908" />
+    <state x="340" y="88" width="650" height="772" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1600888973251" />
   </component>
 </project>

@@ -79,7 +79,7 @@ $(document).on("click", "#send-it", function() {
         )
       )
         var d = "whatsapp://send";
-      var g = d + "?phone=+201012370014" + e + f;
+      var g = d + "?phone=+201025105048" + e + f;
       window.open(g, "_blank");
     }
   }),
