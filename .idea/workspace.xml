@@ -19,14 +19,29 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c295062e-6e87-45a7-8bcc-ae7641f98df6" name="Default Changelist" comment="" />
+    <list default="true" id="c295062e-6e87-45a7-8bcc-ae7641f98df6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ar/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ar/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ar/digitalmarketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar/digitalmarketing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ar/ecommerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar/ecommerce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ar/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ar/mobileapp.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar/mobileapp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ar/seo.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar/seo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ar/terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar/terms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ar/webdesign.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar/webdesign.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ar/webdevelop.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar/webdevelop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ar/websystem.html" beforeDir="false" afterPath="$PROJECT_DIR$/ar/websystem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1huuC2R5EEXxaUbKCuJT0I37R9p" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -49,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600873188206</updated>
       <workItem from="1600873191830" duration="1658000" />
+      <workItem from="1600876096126" duration="1243000" />
     </task>
     <servers />
   </component>
@@ -65,11 +81,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="340" y="88" width="650" height="772" key="find.popup" timestamp="1600874820197">
+    <state x="340" y="88" width="650" height="772" key="find.popup" timestamp="1600877242908">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="340" y="88" width="650" height="772" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1600874820197" />
+    <state x="340" y="88" width="650" height="772" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1600877242908" />
   </component>
 </project>
