@@ -23,7 +23,6 @@ $('.dropdown-button').dropdown({
     }
 );
 
-
 //  strat counter project
 $.fn.jQuerySimpleCounter = function (options) {
     var settings = $.extend({
@@ -114,4 +113,11 @@ $(document).on("click", "#send-it", function() {
         .removeClass("hide");
     });
   
-      // massenger chat 
+      // massenger chat
+
+
+//rest massage in form
+$("#send-it").click(function(){
+    $("#chat-input").val(" ")
+
+});
